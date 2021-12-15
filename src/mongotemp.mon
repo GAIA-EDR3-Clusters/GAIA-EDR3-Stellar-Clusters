@@ -1,0 +1,17 @@
+dev x
+data sm.out
+xc 1
+yc 17
+lim
+pty 4 1 
+ang 45 
+
+
+
+
+
+
+
+
+points 
+box 
